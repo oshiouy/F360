@@ -8,7 +8,7 @@ namespace F360
     public static class Program
     {
         
-        static string textoB = File.ReadAllText(@"klingon-textoA.txt");
+        static string textoB = File.ReadAllText(@"klingon-textoB.txt");
 
         static string[] foo = { "s", "l", "f", "w", "k" };
 
