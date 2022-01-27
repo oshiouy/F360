@@ -8,7 +8,7 @@
 
 - [Descrição](#descrição)
 - [Utilização](#utilização)
-- [Author Info](#author-info)
+- [Criador](#criador)
 
 ---
 
